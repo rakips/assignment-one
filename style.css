@@ -1,0 +1,246 @@
+body{
+    margin: 0;
+    
+}
+
+h1{
+    font-size: 30px;
+}
+
+.one-line{
+    width: 5px;
+    height: 170px;
+    border-radius: 7px;
+    background-color: red;
+    
+};
+
+.one-written h1{
+    font-size: 30px;
+}
+.one-written{
+    width: 40%;
+}
+.one-heading{
+    margin-top: 100px;
+    display: flex;
+}
+.one-heading-written h1{
+    margin-top: -10px;
+    font-size: 80px;
+    padding-left: 12px;
+}
+.one-written{
+width: 50%;
+}
+.one-img{
+    width: 40%;
+}
+.one-img img{
+    width: 100%;
+}
+
+
+.one-button{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.795);
+    color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+    
+}
+.one-written p{
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+.one-paragraph h3{
+    margin-top: 70px;
+}
+
+
+.flexible{
+    display: flex;
+    padding-left: 2%;
+    margin-left: 100px;
+    margin-bottom: 140px;
+}
+   
+
+.section-two h1{
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 70px;
+}
+.container img {
+    width: 50%;
+}
+
+.container{
+    width: 1150px;
+    
+   
+}
+
+.mission{
+    background-color: rgba(252, 252, 89, 0.568);
+    
+    padding: 30px 50px;
+    border-radius: 25px;
+
+}
+
+.vission{
+    background-color: rgba(216, 164, 66, 0.562);
+    
+    margin-left: 50px;
+    padding: 30px 50px;
+    border-radius: 25px;
+}
+.Goals{
+    background-color: #aaf1fa5e;
+    
+    margin-left: 50px;
+    padding: 30px 50px;
+    border-radius: 25px;
+}
+
+
+
+
+
+
+.three-img img{
+    width: 100%;
+}
+
+.three-button{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.795);
+    color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+
+}
+.three-written p{
+    margin-top: -20px;
+margin-bottom: 30px;
+font-size: 20px;
+
+}
+
+.three-written{
+    
+    margin-left: 70px;
+    margin-right: 50px;
+    padding-right: 50px;
+}
+
+.three-written h2{
+    font-size: 50px;
+}
+
+
+
+
+
+.section-four h1{
+    font-size: 50px;
+
+}
+.four-img img{
+    width: 130%;
+}
+.four-img{
+    margin-right:170px;
+    
+}
+
+.four-button{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.795);
+    color: white;
+    padding: 12px 30px;
+    border-radius: 10px;
+}
+
+
+.four-written{
+margin-right: 60px;
+padding-right: 30px;
+}
+
+.four-written p{
+    font-size: 17px;
+    margin-bottom: 30px;
+
+}
+
+
+.section-five h1{
+    font-size: 70px;
+    position: center;
+}
+
+
+.five-img{
+    margin-left: 100px;
+    margin-right: -150px;
+    
+}
+
+
+.five-img img{
+    width: 40%;
+    
+}
+
+.five-written{
+    margin-right: 100px;
+    width: 50%;
+    margin-left: -350px;
+}
+.five-written h1{
+    font-size: 50px;
+    margin-left: -50px;
+}
+.five-written p{
+    margin-bottom: 40px;
+    
+}
+
+.five-button{
+    text-decoration: none;
+    background-color: rgba(255, 0, 0, 0.795);
+    color: white;
+    padding: 15px 40px;
+    border-radius: 10px;
+    
+}
+
+.section-five h1{
+    text-align: center;
+}
+
+
+.span{
+    color: orange;
+}
+
+footer{
+    padding-top: 20px;
+    background-color: #000000;
+    padding-bottom: 20px;
+    
+}
+footer h1{
+    color: white;
+    text-align: center;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+
+.orange{
+color: tomato;
+}
